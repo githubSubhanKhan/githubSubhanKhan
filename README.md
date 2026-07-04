@@ -43,12 +43,6 @@ Currently focused on building intelligent, data-driven solutions that create rea
 
 ---
 
-## 📈 GitHub Stats
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubSubhanKhan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=githubSubhanKhan&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msubhankhan21)
 [![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msubhankhaan21@gmail.com)
